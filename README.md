@@ -1,6 +1,6 @@
 # PROJETO INDIVIDUAL: ESTÃO SERVIDOS? 
 
-Projeto Individual correspondente ao modulo 3 do curso de Full-Stack Programadores Cariocas.
+Projeto Individual correspondente ao modulo 3 do curso de Desenvolvimento full stack (Senac/Resilia)
 
 Segue o link do servidor hospedado no render.com: https://projetoindividual-pamelam3.onrender.com
 
