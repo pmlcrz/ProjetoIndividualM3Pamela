@@ -1,4 +1,4 @@
-# PROJETO INDIVIDUAL: ESTÃO SERVIDOS? 
+# PROJETO INDIVIDUAL: SENDO SERVIDO 
 
 Projeto Individual correspondente ao modulo 3 do curso de Desenvolvimento full stack (Senac/Resilia)
 
